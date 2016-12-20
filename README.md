@@ -1,2 +1,16 @@
 # ejercicio-3
-sueldo semanal
+inicio: sueldo semanal
+
+# ingreso de datos
+
+- horas
+- pago
+- Sueldo
+
+# proceso
+- Pedir horas
+- pedir pago
+- multiplicar horas por pago
+- mostrar sueldo
+
+# fin
