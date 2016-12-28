@@ -1,9 +1,7 @@
 var horas, pago, sueldo;
 
-horas = prompt("Por favor, ingresa las horas trabajadas");
-pago = prompt("Por favor, ingresa el pago por hora");
+var horas = document.getElementById("horas");
+var pago = document.getElementById("pago");
 
-sueldo = parseFloat(horas) * parseFloat(pago);
-
-alert(sueldo)
+Function =
 
