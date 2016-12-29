@@ -1,7 +1,6 @@
-var horas, pago, sueldo;
+var horas, pago;
 
-var horas = document.getElementById("horas");
-var pago = document.getElementById("pago");
+var horas = prompt("Hola, ingresa tus horas trabajadas");
+var pago = prompt("Ahora, ingresa cual es el pago por hora");
 
-Function =
-
+alert("tu sueldo es" + (pago*horas));
